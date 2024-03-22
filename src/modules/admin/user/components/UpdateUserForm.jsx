@@ -248,7 +248,7 @@ import {
                   <Label htmlFor="name" className="font-bold" value="Nombre" />
                   <TextInput
                     type="text"
-                    placeholder="Leonardo"
+                    placeholder="Jayr"
                     id="name"
                     name="name"
                     value={formik.values.name}
@@ -266,7 +266,7 @@ import {
                   <Label htmlFor="surname" className="font-bold" value="Apellido paterno" />
                   <TextInput
                     type="text"
-                    placeholder="Dorantes"
+                    placeholder="Galicia"
                     id="surname"
                     name="surname"
                     value={formik.values.surname}
@@ -288,7 +288,7 @@ import {
                   />
                   <TextInput
                     type="text"
-                    placeholder="Castañeda"
+                    placeholder="Jimnez"
                     id="lastname"
                     name="lastname"
                     value={formik.values.lastname}
@@ -308,7 +308,7 @@ import {
                   <Label htmlFor="curp" className="font-bold" value="CURP" />
                   <TextInput
                     type="curp"
-                    placeholder="DOCL041212HMSRSNA1"
+                    placeholder="GAJJ020312HMSMLYA4"
                     id="curp"
                     name="curp"
                     value={formik.values.curp}

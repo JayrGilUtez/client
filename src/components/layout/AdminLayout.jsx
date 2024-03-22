@@ -18,7 +18,7 @@ const AdminLayout = () => {
               arrowIcon={false}
               inline
               label={
-                <Avatar alt="User settings" img="https://yt3.googleusercontent.com/D3BETNiOFmWFtmTQH5L-Y_rBSlb74iUcYzGePBapnR3Uo6HNxhOatMFA7NOvdkwztcUj4jzpyPA=s900-c-k-c0x00ffffff-no-rj" rounded />
+                <Avatar alt="User settings" img="https://avatars.githubusercontent.com/u/122942269?v=4" rounded />
               }
             >
               <Dropdown.Header>
